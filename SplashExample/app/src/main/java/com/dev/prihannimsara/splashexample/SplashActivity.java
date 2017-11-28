@@ -21,7 +21,6 @@ public class SplashActivity extends AppCompatActivity {
     }
 
     private void showSplashScreen() {
-
         Thread thread = new Thread() {
             public void run() {
                 try {
